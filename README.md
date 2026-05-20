@@ -1,4 +1,4 @@
-# Calculadora Baseada em Texto em C
+# Calculadora baseada em texto em C
 
 Ao executar o programa, ele exibirá as seguintes opções:
 
