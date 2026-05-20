@@ -6,7 +6,7 @@ Ao executar o programa, ele exibirá as seguintes opções:
 
 Se o usuário escolher uma operação(por exemplo, "1" para adição), o programa solicitará dois números:
 
-![operação](imgs/operacao.png)
+![operacao](imgs/operacao.png)
 
 Após exibir o resultado, o programa perguntará se o usuário deseja realizar outra operação:
 
